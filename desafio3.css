@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.lampada {
+    position: relative;
+    width: 200px;
+}
+
+.lampada img {
+    width: 100%;
+    cursor: pointer;
+}
